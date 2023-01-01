@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello, I am a graduate student in the department of Agricultural and Resource Economics at UC Berkeley where I study development economics.
+Hello, I am a graduate student in the [department](https://are.berkeley.edu/user/14004) of Agricultural and Resource Economics at UC Berkeley where I study development economics.
 
 Before starting my PhD, I completed an MS and a BS in civil engineering, and I helped with research in a few places:
 
@@ -30,4 +30,3 @@ Before starting my PhD, I completed an MS and a BS in civil engineering, and I h
 
 ### Writing
 I summarize books at [SumandSome.com](https://www.sumandsome.com/)
-
