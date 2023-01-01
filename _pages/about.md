@@ -26,7 +26,7 @@ Before starting my PhD, I completed an MS and a BS in civil engineering, and I h
 - Illinois State Water Survey, 2016 (helped with [Zhenxing Zhang](https://experts.illinois.edu/en/persons/zhenxing-zhang)'s reports)
 
 ### CV
-[See here](yazenkk.github.io/assets/pdf/kashlan_cv_122022.pdf)
+[See here](https://yazenkk.github.io/assets/pdf/kashlan_cv_122022.pdf)
 
 ### Writing
 I summarize books at [SumandSome.com](https://www.sumandsome.com/)
