@@ -10,9 +10,9 @@ profile:
   image_circular: true # crops the image to make it circular
   address:
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
 Hello, I am a graduate student in the department of Agricultural and Resource Economics at UC Berkeley where I study development economics.
@@ -25,9 +25,9 @@ Before starting my PhD, I completed an MS and a BS in civil engineering, and I h
 - Ven Te Chow Hydrosystems Lab, 2016-2017 (helped with [Phong Le](https://scholar.google.com/citations?user=RAKkehIAAAAJ&hl=en)'s postdoctoral work and [Landon Marston](https://cee.vt.edu/people/faculty/lmarston.html)'s PhD dissertation)
 - Illinois State Water Survey, 2016 (helped with [Zhenxing Zhang](https://experts.illinois.edu/en/persons/zhenxing-zhang)'s reports)
 
-## CV
+### CV
 [See here](yazenkk.github.io/assets/pdf/kashlan_cv_122022.pdf)
 
-## Writing
+### Writing
 I summarize books at [SumandSome.com](https://www.sumandsome.com/)
 
